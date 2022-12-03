@@ -1,8 +1,2 @@
 [theme]
 base='dark'
-
-[server]
-headless=true
-
-[browser]
-serverAddress="www.economicsplayground.com"
